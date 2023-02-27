@@ -19,6 +19,8 @@ const insertImages = string => {
 const results = galleryRender(galleryItems);
 insertImages(results);
 
+// 777777777777777777
+
 new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
